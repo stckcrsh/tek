@@ -1,0 +1,4 @@
+TODO: fix action validation step to include payment check
+TODO: finish war aspects
+TODO: fix action Resolution step to include the items that changed (Patrol unit, Quest unit, Trade resources...)
+TODO: add in the special actions like the lizardmen swap and the goblins double patrol
